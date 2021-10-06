@@ -7,3 +7,4 @@ git remote set-head origin -a
 
 <img width="952" alt="git-project-path" src="https://user-images.githubusercontent.com/25654269/136136018-174a868e-be36-4d60-97c3-8d17a959e917.png">
 
+$ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
